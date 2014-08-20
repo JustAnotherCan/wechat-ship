@@ -1,17 +1,4 @@
 wechat-ship
-A
-B
-B
-B
-
-A
-B
-D
-C
-C
-C
-C
-C
 
 
 ===========
